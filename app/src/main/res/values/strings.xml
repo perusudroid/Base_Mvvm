@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BaseProject_MVVM</string>
+
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="action_more">OpenSource</string>
+    <string name="running">Running…</string>
+    <string name="completed">Completed</string>
+</resources>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.MainActivity">
+    <item
+        android:id="@+id/action_settings_1"
+        android:orderInCategory="1"
+        android:title="Open Source"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_2"
+        android:orderInCategory="2"
+        android:title="Service"
+        app:showAsAction="never" />
+
+</menu>
